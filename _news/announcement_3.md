@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Reviewer for NeurIPS 2025
+📝 Serving as a reviewer for NeurIPS 2025.

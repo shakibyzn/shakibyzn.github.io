@@ -29,5 +29,5 @@ latest_posts:
 
 I'm a research assistant at German Research Center for Artificial Intelligence (DFKI), advised by Prof. Josef van Genabith.
 
-My current research focuses on **continual Learning** and **parameter-efficient fine-tuning**. Previously, I obtained my master's degree in Data Science and Artificial Intelligence from Saarland University. I also worked as a research assistant (Hiwi) at CISPA under Dr. Lea Schönherr, and at UKP Lab under Dr. Tilman Beck.
+My current research focuses on **Mutlimodal Machine Translation** and **Continual Learning**. Previously, I obtained my master's degree in Data Science and Artificial Intelligence from Saarland University. I also worked as a research assistant (Hiwi) at CISPA under Dr. Lea Schönherr, and at UKP Lab under Dr. Tilman Beck.
 

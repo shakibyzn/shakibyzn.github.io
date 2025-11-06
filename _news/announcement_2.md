@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted at **NAACL 2025**
+🚀 Excited to share that our [paper](https://aclanthology.org/2025.naacl-long.546/) on continual learning in MSLT was accepted at **NAACL 2025**!
