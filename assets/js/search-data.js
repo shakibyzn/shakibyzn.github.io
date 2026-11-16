@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-activities",
+          title: "activities",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/activities/";
+          },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
@@ -48,6 +55,15 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-two-preprints-are-now-available-one-on-hallucination-detection-and-another-on-automatic-evaluation",
           title: '📄 Two preprints are now available, one on hallucination detection and another on...',
+          description: "",
+          section: "News",},{id: "news-i-started-my-phd-at-gipplab-university-of-göttingen-working-on-nlp-for-metadata-enrichment-of-museum-texts",
+          title: '🎓 I started my PhD at GippLab, University of Göttingen, working on NLP...',
+          description: "",
+          section: "News",},{id: "news-our-paper-with-collaborators-from-ukp-lab-and-johannes-gutenberg-university-mainz-contextualized-prompting-for-stance-detection-on-social-media-is-now-available-on-arxiv",
+          title: '📄 Our paper with collaborators from UKP Lab and Johannes Gutenberg University Mainz,...',
+          description: "",
+          section: "News",},{id: "news-excited-to-share-that-our-paper-do-models-fail-to-understand-images-or-do-benchmarks-fail-to-understand-models-probing-image-utility-and-understanding-in-mner-was-accepted-at-eacl-2027",
+          title: '🚀 Excited to share that our paper Do Models Fail to Understand Images,...',
           description: "",
           section: "News",},{
         id: 'social-email',
@@ -75,7 +91,14 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=afvFKdwAAAAJ&hl", "_blank");
+          window.open("https://scholar.google.com/citations?user=afvFKdwAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-work',
+        title: 'Work',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://gipplab.uni-goettingen.de/team/shakib-yazdani/", "_blank");
         },
       },{
       id: 'light-theme',
