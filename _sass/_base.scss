@@ -739,6 +739,7 @@ footer.sticky-bottom {
           display: inline-block;
           background-color: var(--global-theme-color);
           margin-bottom: 0.5rem;
+          white-space: normal; // let long venue labels (e.g. sign-lang@LREC 2026) wrap inside the badge
           color: var(--global-card-bg-color) !important;
 
           a {
@@ -1415,5 +1416,37 @@ figure.cover {
   /* mouse over link */
   a.cover-link:hover {
     color: #23212d !important;
+  }
+}
+
+// Activities page (reviewing, supervision, teaching): label + text rows,
+// labels styled like the venue badges on the publications page.
+.activities {
+  h2 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
+
+  .activity {
+    display: flex;
+    align-items: baseline;
+    gap: 1rem;
+    margin-bottom: 0.6rem;
+  }
+
+  .activity-label {
+    flex: 0 0 6.5rem;
+    text-align: center;
+    background-color: var(--global-theme-color);
+    color: var(--global-card-bg-color);
+    border-radius: 0.25rem;
+    font-size: 0.75rem;
+    font-weight: 700;
+    padding: 0.25em 0.4em;
+  }
+
+  .activity-note {
+    color: var(--global-text-color-light);
+    margin-bottom: 0.8rem;
   }
 }
