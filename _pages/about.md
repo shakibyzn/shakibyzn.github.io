@@ -30,4 +30,3 @@ latest_posts:
 I'm a PhD candidate at [GippLab](https://gipplab.uni-goettingen.de/) (Scientific Information Analytics group of Prof. Bela Gipp) at the University of Göttingen. I work on NLP for metadata enrichment of museum texts, focusing on information retrieval with applications in multimodality and efficient ML systems.
 
 Before my PhD, I was a researcher in the MLT Lab at the German Research Center for Artificial Intelligence (**DFKI**), advised by Prof. Josef van Genabith, where I worked on sign language translation and continual learning. I obtained my master's degree in Data Science and Artificial Intelligence from Saarland University. During my studies, I also worked as a research assistant at **UKP Lab** under the supervision of Dr. Tilman Beck and Prof. Iryna Gurevych on stance detection, and at **CISPA** under Dr. Lea Schönherr on breaking multimodal CAPTCHAs.
-
